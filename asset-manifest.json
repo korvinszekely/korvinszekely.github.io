@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e9ea9db.css",
-    "main.js": "/static/js/main.33acfdae.js",
+    "main.js": "/static/js/main.308e7b49.js",
     "static/js/453.0a1b13cc.chunk.js": "/static/js/453.0a1b13cc.chunk.js",
     "static/media/bright1.png": "/static/media/bright1.43edff6aeb4db7f2c767.png",
     "static/media/rebirthofficialcover.png": "/static/media/rebirthofficialcover.a9b2259b555f983f8d67.png",
@@ -9,6 +9,7 @@
     "static/media/jbaby.png": "/static/media/jbaby.8c879a63948cea1e397e.png",
     "static/media/IMG_5066.JPG": "/static/media/IMG_5066.5fa311afabd39769559b.JPG",
     "static/media/IMG_5320.JPG": "/static/media/IMG_5320.add0169c2c0865207ec4.JPG",
+    "static/media/eccored.png": "/static/media/eccored.ad30801a59bc91ba15b3.png",
     "static/media/IMG_5248.JPG": "/static/media/IMG_5248.6406340c6443ceb92b70.JPG",
     "static/media/IMG_5252.JPG": "/static/media/IMG_5252.97317fcfeeca8ef87c5d.JPG",
     "static/media/IMG_4786.JPG": "/static/media/IMG_4786.a0b293b071ecd042dc4b.JPG",
@@ -161,11 +162,11 @@
     "static/media/Korvin.png": "/static/media/Korvin.2431fbe672612e26aa1d.png",
     "index.html": "/index.html",
     "main.4e9ea9db.css.map": "/static/css/main.4e9ea9db.css.map",
-    "main.33acfdae.js.map": "/static/js/main.33acfdae.js.map",
+    "main.308e7b49.js.map": "/static/js/main.308e7b49.js.map",
     "453.0a1b13cc.chunk.js.map": "/static/js/453.0a1b13cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e9ea9db.css",
-    "static/js/main.33acfdae.js"
+    "static/js/main.308e7b49.js"
   ]
 }
