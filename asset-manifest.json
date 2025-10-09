@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4e9ea9db.css",
-    "main.js": "/static/js/main.6aacc047.js",
+    "main.js": "/static/js/main.dcffd57c.js",
     "static/js/453.0a1b13cc.chunk.js": "/static/js/453.0a1b13cc.chunk.js",
     "static/media/bright1.png": "/static/media/bright1.43edff6aeb4db7f2c767.png",
     "static/media/rebirthofficialcover.png": "/static/media/rebirthofficialcover.a9b2259b555f983f8d67.png",
@@ -158,16 +158,17 @@
     "static/media/b24.png": "/static/media/b24.6e8fe92b73e7c49de13e.png",
     "static/media/DEMAND.png": "/static/media/DEMAND.91fbd932c447d24db31f.png",
     "static/media/upsidedn.jpg": "/static/media/upsidedn.73ba0506a26d332e654e.jpg",
+    "static/media/bitchesonpost.png": "/static/media/bitchesonpost.895aa241cfdfa9f3a06d.png",
     "static/media/IMG_5064.JPG": "/static/media/IMG_5064.6d745e5a956e55c0d2b1.JPG",
     "static/media/billjcover.png": "/static/media/billjcover.95a396c6604b0d65f7db.png",
     "static/media/Korvin.png": "/static/media/Korvin.2431fbe672612e26aa1d.png",
     "index.html": "/index.html",
     "main.4e9ea9db.css.map": "/static/css/main.4e9ea9db.css.map",
-    "main.6aacc047.js.map": "/static/js/main.6aacc047.js.map",
+    "main.dcffd57c.js.map": "/static/js/main.dcffd57c.js.map",
     "453.0a1b13cc.chunk.js.map": "/static/js/453.0a1b13cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e9ea9db.css",
-    "static/js/main.6aacc047.js"
+    "static/js/main.dcffd57c.js"
   ]
 }
