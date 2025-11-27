@@ -1,5 +1,8 @@
 const VideoInfo = [
     {
+        link: 'https://youtu.be/BoiLwdk5lvk?si=DbkXKqhdFQmSw13Y'
+    },
+    {
         link: 'https://youtu.be/RhZqvixV7Pc?si=6i6Eioqic30GfoDI'
     },
     {
